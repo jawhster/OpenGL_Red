@@ -5,3 +5,5 @@ OpenGL = software interface to graphics hardware (~150 distinct commands)
 GLU (OpenGL Utility Library) = provides many modeling features, e.g. quadric surfaces & NURBS curves and surfaces
   > Standard part of every OpenGL implementation
 Open Inventor = higher-level, object-oriented toolkit, built atop OpenGL & available separately
+Wireframe model = each line of wire corresponds to an edge of a primitive (typically a polygon)
+Depth-cued = lines farther from the eye are dimmer, just as they would be in real life
