@@ -1,0 +1,7 @@
+OpenGL = software interface to graphics hardware (~150 distinct commands)
+  > Streamlined, hardware-independent interface
+  > Therefore, no commands for performing windowing tasks or user input included in OpenGL so work through windowing system that using
+  > Doesn't provide high-level commands for 3D objects; instead, must build up desired model from a small set of geometric primitives (points, lines. and polygons)
+GLU (OpenGL Utility Library) = provides many modeling features, e.g. quadric surfaces & NURBS curves and surfaces
+  > Standard part of every OpenGL implementation
+Open Inventor = higher-level, object-oriented toolkit, built atop OpenGL & available separately
